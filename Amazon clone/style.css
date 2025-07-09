@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+nav{
+    height: 60px;
+    background-color: black;
+}
+#amazon{
+    color: #f08804;
+    font-size: 25px;
+    
+
+}
+button{
+    background-color: #f08804;
+}
+a{
+    
+    margin-right: 200px;
+    text-decoration: none;
+}
